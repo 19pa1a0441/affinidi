@@ -5,7 +5,6 @@ This is for demonstration purposes only. DO NOT USE THIS IN PRODUCTION.
 ## Communities Working on COVID-19 Credentials
 
 - [http://covid19credentials.com](http://covid19credentials.com)
-- DIF is forming a WG 
 - W3C CCG has hosted some good conversations on "W3C Credentials CG (Public List)" <public-credentials@w3.org>
 
 ## Open Source & Built On Standards
